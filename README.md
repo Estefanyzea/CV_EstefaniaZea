@@ -6,7 +6,7 @@
 
 ## 📞 Contacto
 - **Teléfono:** +57 322 7047545
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [estefaniazeatrujillo@hotmail.com](mailto:correo@ejemplo.com)
 - **LinkedIn:** [https://www.linkedin.com/in/estefania-zea-trujillo-372532379/]
 
 ## 🏢 Experiencia Laboral
@@ -14,7 +14,7 @@
 - Aprendiz en analista y desarrollo de software.
 
 ### **Empresa Brumam** _(2021 - 2024)_
-- Puesto ocupado y descripción breve.
+- Asistente de bodega: organiza, embala, etiqueta y despacha mercancía. 
 
 ## 🎓 Educación
 ### **Sena** _(2025-2027)_
