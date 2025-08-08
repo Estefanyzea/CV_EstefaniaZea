@@ -7,18 +7,20 @@
 ## 📞 Contacto
 - **Teléfono:** +57 322 7047545
 - **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [https://www.linkedin.com/in/estefania-zea-trujillo-372532379/]https://www.linkedin.com/in/estefania-zea-trujillo-372532379/ 
+- **LinkedIn:** [https://www.linkedin.com/in/estefania-zea-trujillo-372532379/]
 
 ## 🏢 Experiencia Laboral
-### **Empresa Sena** _(2025- Actualidad)_
-- Aprendiz analista y desarrollo de software.
+### **Empresa Sena** _(2025-Actualidad)_
+- Aprendiz en analista y desarrollo de software.
 
 ### **Empresa Brumam** _(2021 - 2024)_
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Sena** _(2025-2027)_
+- Analisis y desarrollo de software.
+### **Bachiller** _(2022-2024)_
+Andres bello
 
 ## 💡 Habilidades
 - **Habilidad 1**
