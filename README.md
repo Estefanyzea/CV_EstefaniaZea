@@ -5,15 +5,15 @@
 **Profesión:** Analista y desarrollador de software
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
+- **Teléfono:** +57 322 7047545
 - **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** [https://www.linkedin.com/in/estefania-zea-trujillo-372532379/]https://www.linkedin.com/in/estefania-zea-trujillo-372532379/ 
 
 ## 🏢 Experiencia Laboral
 ### **Empresa Sena** _(2025- Actualidad)_
 - Aprendiz analista y desarrollo de software.
 
-### **Empresa ABC** _(2018 - 2020)_
+### **Empresa Brumam** _(2021 - 2024)_
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
